@@ -14,7 +14,7 @@ All modules are synthesizable and have been verified in simulation. Hardware int
 
 The repository also includes complete documentation, report, timing diagrams, and a functional datasheet for the subsystem. This project was awarded the highest academic grade (A) in ELE113 – HW & SW systemdesign.
 
-**Author:** Hareth  
+**Author:** Hareth Al-jomaa
 **Program:** Dual BEng in Electrical Engineering (Automation & Electronics)  
 **Institution:** Western Norway University of Applied Sciences  
 **Course:** ELE113 – HW & SW systemdesign   
