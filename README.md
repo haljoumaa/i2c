@@ -1,4 +1,4 @@
-# I2C Master Controller – VHDL Implementation
+# I2C Master Subsystem – VHDL Implementation
 
 
 This repository contains a synthesizable I2C Master subsystem implemented in VHDL, developed as part of an advanced digital design project. The system includes:
