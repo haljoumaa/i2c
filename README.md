@@ -17,3 +17,5 @@ The repository also includes complete documentation, report, timing diagrams, an
 **Program:** Dual-track in Electrical Engineering (Automation & Electronics) <br>
 **Institution:** Western Norway University of Applied Sciences. <br>
 **Course:** ELE113 – HW & SW systemdesign.
+
+> Last Updated: 10.07.2025
